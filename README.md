@@ -1,6 +1,6 @@
 Sobre o projeto.
 Este é um sistema simples de Amigo Secreto, onde os usuários podem adicionar nomes a uma lista e sortear
-um amigo aleatoriamente. Ela foi desevolvido utilizando Html Css e Java script para cirar uma interface intuitiva
+um amigo aleatoriamente. Ele foi desevolvido utilizando Html Css e Java script para cirar uma interface intuitiva
 e responsiva.
 1 - FUNCIONALIDADES
 1.1 - Adicionar nomes:  Os usuários escrevem um nome e o adicionam à lista.
